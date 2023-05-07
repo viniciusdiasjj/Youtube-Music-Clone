@@ -1,0 +1,5 @@
+Ao criar um clone da interface do Youtube Music, meu objetivo era aprimorar minhas habilidades em JavaScript e, ao mesmo tempo, me desafiar a enfrentar meus medos em relação a novos projetos. Este projeto foi um grande desafio, mas estou feliz em dizer que consegui superá-lo e alcançar meus objetivos.
+
+Com este projeto, aprendi muito sobre as nuances do JavaScript e sobre como criar uma interface de usuário fluida e intuitiva. Também descobri que, com perseverança e dedicação, posso superar meus medos e limitações, e alcançar resultados incríveis.
+
+Quero convidá-los a me seguir no GitHub, onde estarei postando todos os códigos que estou desenvolvendo nessa grande jornada de aprendizado. Espero que isso possa inspirar outras pessoas a enfrentarem seus medos e aprimorarem suas habilidades em programação.
